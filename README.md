@@ -18,7 +18,13 @@ Se procesaron 12 archivos CSV unificándolos en un único DataFrame global. Se r
     Patrón de uso: Los socios dominan los días laborales (transporte), mientras que los ocasionales se concentran en fines de semana (ocio).
 
 📊 Visualizaciones Clave
-(Aquí es donde insertaremos los gráficos en el siguiente paso)
+
+#### Comparativa de Duración de Viajes
+![Gráfico de Duración](gráfico_duración_viaje_promedio.png)
+
+#### Tendencia de Viajes por Día de la Semana
+![Gráfico Semanal](gráfico_días.png)
+
 🚀 Recomendaciones Estratégicas
 
     Campaña "Weekend Warrior": Suscripción anual con descuento para uso exclusivo en fines de semana.
